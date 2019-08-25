@@ -1,0 +1,20 @@
+body {
+    background: url("../images/bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-top: 250px;
+  }
+
+
+.jumbotron {
+  margin-top: 250px; 
+}
+
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 0 15px 15px 0;
+}
